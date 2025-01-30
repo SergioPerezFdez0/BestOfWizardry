@@ -4,6 +4,8 @@
 
 Best Of Wizardry es un prototipo de juego desarrollado en Unity utilizando Netcode for GameObjects, creado por un único desarrollador en un período de 3 meses como parte de un portfolio personal. Se trata de un ejercicio de aprendizaje y demostración de habilidades propias en el desarrollo de juegos multijugador.
 
+Pequeño video gameplay de baja calidad: https://youtu.be/a8WBG4uEDYk
+
 ### Descripción
 
 El juego ofrece un prototipo funcional con características básicas de red, diseñado para explorar y aplicar Netcode for GameObjects en Unity. Incorpora funcionalidad multijugador con soporte tanto para host como para servidor dedicado, utilizando Unity Gaming Services, integrando:
